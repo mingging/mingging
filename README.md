@@ -2,7 +2,9 @@
 
 
   
-<p align="center">## Hi there I'm min👋</p>
+<p align="center"><h2>Hi there I'm min👋</h2></p>
+<br />
+<p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
@@ -11,7 +13,7 @@
 <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-
+</p>
 
 
 
