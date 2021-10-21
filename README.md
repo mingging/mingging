@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=300&section=header&text=mingging&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8DC6FF&height=300&section=header&text=mingging&fontSize=50&fontColor=ffffff)
 ### Hi there I'm min👋
 
 - 🌱 I’m currently learning ...
