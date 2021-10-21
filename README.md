@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-<p align="center">
-**![min's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingging&show_icons=true&theme=tokyonight)**
-**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingging&layout=compact)](https://github.com/mingging/github-readme-stats)**
-</p>
+
+![min's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingging&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
