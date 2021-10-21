@@ -2,12 +2,15 @@
 
 
   
-<p align="center"><h2>Hi there I'm min👋</h2></p>
+<h2 align="center">Hi there I'm min👋</h2>
+- 🌱 I’m currently learning ...
+- 😄 I feel happy
 <br />
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<br />
 <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
@@ -17,8 +20,7 @@
 
 
 
-- 🌱 I’m currently learning ...
-- 😄 I feel happy
+
 <!--
 **mingging/mingging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
