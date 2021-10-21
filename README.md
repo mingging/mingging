@@ -1,6 +1,6 @@
 ### Hi there I'm min👋
 
-🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...
 <!--
 **mingging/mingging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
