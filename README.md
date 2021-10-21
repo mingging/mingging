@@ -3,8 +3,7 @@
 
   
 <h2 align="center">Hi there I'm min👋</h2>
-- 🌱 I’m currently learning ...
-- 😄 I feel happy
+<p align="center">🌱 I’m currently learning ...</p>
 <br />
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
