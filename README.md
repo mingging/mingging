@@ -2,7 +2,7 @@
 
 
   
-<p style="text-align: center;">## Hi there I'm min👋</p>
+<span align="center">## Hi there I'm min👋</span>
 <a href="#"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
