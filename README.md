@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8DC6FF&height=300&section=header&text=mingging&fontSize=50&fontColor=ffffff)
 
-<p align="span">
+<p align="center">
   
 ## Hi there I'm min👋
 <a href="#"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
@@ -16,6 +16,7 @@
 
 
 - 🌱 I’m currently learning ...
+- 😄 I feel happy
 <!--
 **mingging/mingging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
