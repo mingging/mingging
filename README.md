@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mingging&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://opgc.me/#/users/mingging" target="_blank"><img src="https://api.opgc.me/githubs/users/mingging/tag/?theme=basic" /></a>
 </p>
